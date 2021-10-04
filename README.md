@@ -1,6 +1,6 @@
 ### HELLO DEVS, Bem vindos ao meu perfil! 👋
 
-- 👨‍💻 Pretendo trabalhar futuramente como desenvolvedor Back-end
+- 👨‍💻 A procura de um estágio como desenvolvedor Back-end
 - ☕ Atualmente estudando Java
 - 👱 Pronouns: ele/dele
 
