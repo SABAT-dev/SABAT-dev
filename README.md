@@ -1,7 +1,7 @@
 ### HELLO DEVS, Bem vindos ao meu perfil! 👋
 
 - 👨‍💻 A procura de um estágio como desenvolvedor Back-end
-- ☕ Atualmente estudando Java
+- ☕ Atualmente estudando Java, HTML e CSS
 - 👱 Pronouns: ele/dele
 
 <div align="center">
@@ -12,6 +12,9 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Simon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Simon-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Simon-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Simon-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Simon-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
   
