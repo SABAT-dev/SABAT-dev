@@ -1,8 +1,7 @@
 ### HELLO DEVS, Bem vindos ao meu perfil! 👋
 
-- 👨‍💻 A procura de um estágio como desenvolvedor Back-end
-- ☕ Atualmente estudando Java e Banco de Dados
-- 👱 Pronouns: ele/dele
+- 👨‍💻 A procura de um estágio como desenvolvedor Front-End
+- ☕ Atualmente estudando HTML, CSS e JavaScript
 
 <div align="center">
   <a href="https://github.com/SABAT-dev">
