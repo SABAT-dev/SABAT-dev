@@ -1,6 +1,6 @@
 ### HELLO DEVS, Bem vindos ao meu perfil! 👋
 
-- 👨‍💻 A procura de um estágio como desenvolvedor Back-End
+- 👨‍💻 A procura de um estágio como desenvolvedor Front-End
 - ☕ Atualmente estudando HTML, CSS e JavaScript
 
 <div align="center">
